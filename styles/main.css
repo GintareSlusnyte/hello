@@ -1,0 +1,12 @@
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+
+main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+main > section{
+    padding: 10px 30px;
+    border: 1px dashed black;
+}
